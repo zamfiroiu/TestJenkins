@@ -1,4 +1,3 @@
-package teste;
 
 import static org.junit.Assert.*;
 
@@ -6,9 +5,6 @@ import java.util.List;
 
 import org.junit.Before;
 import org.junit.Test;
-
-import clase.Matematica;
-
 public class MatematicaTests {
 Matematica mate;
 	
